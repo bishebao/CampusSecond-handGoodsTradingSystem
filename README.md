@@ -1,0 +1,2 @@
+# CampusSecond-handGoodsTradingSystem
+ 基于ssh的校园二手物品交易管理系统：，系统分为用户和管理员，用户可以在平台发布自己的二手物品，也可以购买别人发布的商品，支持在线付款和货到付款
